@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Eric Falconer (Don't overthink it) - announcements</title><link href="https://ericfalconer.com/" rel="alternate"></link><link href="https://ericfalconer.com/feeds/announcements.atom.xml" rel="self"></link><id>https://ericfalconer.com/</id><updated>2017-12-31T00:00:00-05:00</updated><entry><title>Welcome</title><link href="https://ericfalconer.com/welcome.html" rel="alternate"></link><published>2017-12-31T00:00:00-05:00</published><updated>2017-12-31T00:00:00-05:00</updated><author><name>Eric Falconer</name></author><id>tag:ericfalconer.com,2017-12-31:/welcome.html</id><summary type="html">&lt;h1&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;Welcome to my humble corner of the internet.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;Welcome to my humble corner of the internet.&lt;/p&gt;</content></entry></feed>
