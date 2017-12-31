@@ -34,12 +34,18 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = [
     'images', 
     'extra/robots.txt', 
-    'extra/favicon.ico'
+    'extra/favicon.ico',
+    'extra/icon.svg',
 ]
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/icon.svg': {'path': 'icon.svg'},
 }
+
+TWITTER_USERNAME='efalconer'
+
+THEME='theme'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
